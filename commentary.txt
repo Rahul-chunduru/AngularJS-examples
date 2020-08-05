@@ -1,0 +1,3 @@
+javascript variable declared in previous files can be accessed by the current js file.
+
+better to keep javascript code after declaration of the view.
